@@ -52,7 +52,7 @@ public class BanHangJDialog extends javax.swing.JDialog {
     public BanHangJDialog(java.awt.Frame parent, boolean modal) {
         super(parent, modal);
         initComponents();
-        init();
+        init();;;;
     }
 
     /**
