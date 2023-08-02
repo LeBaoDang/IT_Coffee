@@ -5,10 +5,11 @@
  */
 package com.itcoffee.ui;
 
-import Com.IT_Coffee.DAO.LichSuBanHangDAO;
-import Com.IT_Coffee.Entity.LichSuBanHang;
-import Com.IT_Coffee.utils.MsgBox;
-import Com.IT_Coffee.utils.XDate;
+import com.itcoffee.dao.LichSuBanHangDAO;
+import com.itcoffee.dao.LichSuBanHangDAO;
+import com.itcoffee.entity.LichSuBanHang;
+import com.itcoffee.utils.MsgBox;
+import com.itcoffee.utils.XDate;
 import java.awt.Color;
 import java.text.DecimalFormat;
 import java.text.NumberFormat;

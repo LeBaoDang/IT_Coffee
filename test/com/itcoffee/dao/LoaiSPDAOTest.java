@@ -5,7 +5,8 @@
  */
 package Com.IT_Coffee.DAO;
 
-import Com.IT_Coffee.Entity.LoaiSP;
+import com.itcoffee.dao.LoaiSPDAO;
+import com.itcoffee.entity.LoaiSP;
 import java.util.List;
 import org.junit.After;
 import org.junit.AfterClass;

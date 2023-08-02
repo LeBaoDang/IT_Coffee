@@ -5,9 +5,10 @@
  */
 package com.itcoffee.ui;
 
-import Com.IT_Coffee.utils.MsgBox;
-import Com.IT_Coffee.utils.XImage;
+
 //import com.sun.corba.se.impl.protocol.giopmsgheaders.Message;
+import com.itcoffee.utils.MsgBox;
+import com.itcoffee.utils.XImage;
 import java.awt.Color;
 import java.sql.Connection;
 import java.sql.DriverManager;

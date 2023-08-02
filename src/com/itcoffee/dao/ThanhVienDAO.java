@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Com.itcoffee.dao;
+package com.itcoffee.dao;
 
 import com.itcoffee.entity.ThanhVien;
 import com.itcoffee.utils.XJdbc;

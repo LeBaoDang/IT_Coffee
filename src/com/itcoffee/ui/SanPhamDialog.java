@@ -5,14 +5,14 @@
  */
 package com.itcoffee.ui;
 
-import Com.IT_Coffee.DAO.LoaiSPDAO;
-import Com.IT_Coffee.DAO.SanPhamDAO;
-import Com.IT_Coffee.Entity.LoaiSP;
-import Com.IT_Coffee.Entity.NhanVien;
-import Com.IT_Coffee.Entity.SanPham;
-import Com.IT_Coffee.utils.Auth;
-import Com.IT_Coffee.utils.MsgBox;
-import Com.IT_Coffee.utils.XImage;
+
+import com.itcoffee.dao.LoaiSPDAO;
+import com.itcoffee.dao.SanPhamDAO;
+import com.itcoffee.entity.LoaiSP;
+import com.itcoffee.entity.SanPham;
+import com.itcoffee.utils.Auth;
+import com.itcoffee.utils.MsgBox;
+import com.itcoffee.utils.XImage;
 import java.awt.Color;
 import java.awt.Image;
 import java.io.File;

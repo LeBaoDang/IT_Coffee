@@ -4,8 +4,9 @@
  */
 package Com.IT_Coffee.DAO;
 
-import Com.IT_Coffee.Entity.HoaDon;
-import Com.IT_Coffee.utils.XDate;
+import com.itcoffee.entity.HoaDon;
+import com.itcoffee.utils.XDate;
+import com.itcoffee.dao.HoaDonDAO;
 import org.junit.After;
 import static org.junit.Assert.assertEquals;
 import org.junit.Before;

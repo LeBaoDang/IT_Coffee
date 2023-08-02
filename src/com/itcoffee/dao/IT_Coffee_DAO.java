@@ -1,4 +1,4 @@
-package Com.itcoffee.dao;
+package com.itcoffee.dao;
 
 import java.util.List;
 

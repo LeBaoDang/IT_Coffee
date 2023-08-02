@@ -4,8 +4,9 @@
  */
 package Com.IT_Coffee.DAO;
 
-import Com.IT_Coffee.Entity.*;
-import Com.IT_Coffee.DAO.SanPhamDAO;
+
+import com.itcoffee.dao.SanPhamDAO;
+import com.itcoffee.entity.SanPham;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import org.junit.After;

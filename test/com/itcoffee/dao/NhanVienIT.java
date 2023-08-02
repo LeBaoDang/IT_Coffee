@@ -4,8 +4,8 @@
  */
 package Com.IT_Coffee.DAO;
 
-import Com.IT_Coffee.Entity.*;
-import Com.IT_Coffee.DAO.NhanVienDAO;
+import com.itcoffee.entity.*;
+import com.itcoffee.dao.NhanVienDAO;
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;

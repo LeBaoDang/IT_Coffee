@@ -4,8 +4,9 @@
  */
 package Com.IT_Coffee.DAO;
 
-import Com.IT_Coffee.Entity.ThanhVien;
-import Com.IT_Coffee.utils.XDate;
+import com.itcoffee.dao.ThanhVienDAO;
+import com.itcoffee.entity.ThanhVien;
+import com.itcoffee.utils.XDate;
 import static org.junit.Assert.assertEquals;
 import org.junit.Before;
 import org.junit.Test;

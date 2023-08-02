@@ -5,13 +5,12 @@
  */
 package com.itcoffee.ui;
 
-import Com.IT_Coffee.DAO.ThongKeDAO;
-import Com.IT_Coffee.Entity.LoaiSP;
-import Com.IT_Coffee.Entity.SanPham;
-import Com.IT_Coffee.utils.Auth;
-import Com.IT_Coffee.utils.MsgBox;
-import Com.IT_Coffee.utils.XDate;
-import Com.IT_Coffee.utils.XImage;
+
+import com.itcoffee.dao.ThongKeDAO;
+import com.itcoffee.utils.Auth;
+import com.itcoffee.utils.MsgBox;
+import com.itcoffee.utils.XDate;
+import com.itcoffee.utils.XImage;
 import java.awt.Color;
 import java.io.File;
 import java.io.FileOutputStream;
