@@ -5,7 +5,7 @@
  */
 package Com.itcoffee.dao;
 
-import Com.itcoffee.entity.BHChiTietHD;
+import com.itcoffee.entity.BHChiTietHD;
 import com.itcoffee.utils.XJdbc;
 import java.sql.ResultSet;
 import java.sql.SQLException;

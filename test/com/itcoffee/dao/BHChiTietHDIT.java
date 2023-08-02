@@ -4,7 +4,7 @@
  */
 package Com.IT_Coffee.DAO;
 
-import Com.IT_Coffee.Entity.BHChiTietHD;
+import com.itcoffee.entity.BHChiTietHD;
 import org.junit.After;
 import static org.junit.Assert.assertEquals;
 import org.junit.Before;

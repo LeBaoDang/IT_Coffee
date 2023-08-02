@@ -5,7 +5,6 @@
  */
 package com.itcoffee.ui;
 
-import com.itcoffee.dao.BHChiTietHDDAO;
 import com.itcoffee.dao.SanPhamDAO;
 import com.itcoffee.entity.BHChiTietHD;
 
