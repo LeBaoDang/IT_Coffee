@@ -1,4 +1,4 @@
-package Com.IT_Coffee.utils;
+package com.itcoffee.utils;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

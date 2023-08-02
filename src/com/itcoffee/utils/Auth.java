@@ -1,7 +1,6 @@
-package Com.IT_Coffee.utils;
+package com.itcoffee.utils;
 
-import Com.IT_Coffee.Entity.NhanVien;
-
+import com.itcoffee.entity.NhanVien;
 
 
 public class Auth {

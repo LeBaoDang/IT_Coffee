@@ -1,4 +1,4 @@
-package Com.IT_Coffee.utils;
+package com.itcoffee.utils;
 
 import java.awt.Component;
 import javax.swing.JOptionPane;

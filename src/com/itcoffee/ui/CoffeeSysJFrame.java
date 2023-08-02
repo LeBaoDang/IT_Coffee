@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Com.IT_Coffee.UI;
-import Com.IT_Coffee.utils.Auth;
-import Com.IT_Coffee.utils.MsgBox;
-import Com.IT_Coffee.utils.XImage;
+package com.itcoffee.ui;
+import com.itcoffee.utils.Auth;
+import com.itcoffee.utils.MsgBox;
+import com.itcoffee.utils.XImage;
 import java.awt.Desktop;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

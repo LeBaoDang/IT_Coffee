@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Com.IT_Coffee.UI;
+package com.itcoffee.ui;
 
 import Com.IT_Coffee.DAO.ThongKeDAO;
 import Com.IT_Coffee.Entity.LoaiSP;

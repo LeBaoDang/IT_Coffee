@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Com.IT_Coffee.DAO;
+package Com.itcoffee.dao;
 
-import Com.IT_Coffee.Entity.LichSuBanHang;
-import Com.IT_Coffee.utils.XJdbc;
+import com.itcoffee.entity.LichSuBanHang;
+import com.itcoffee.utils.XJdbc;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;

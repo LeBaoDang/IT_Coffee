@@ -3,19 +3,18 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Com.IT_Coffee.UI;
+package com.itcoffee.ui;
 
-import Com.IT_Coffee.DAO.BHChiTietHDDAO;
-import Com.IT_Coffee.DAO.HoaDonDAO;
-import Com.IT_Coffee.DAO.LoaiSPDAO;
-import Com.IT_Coffee.DAO.SanPhamDAO;
-import Com.IT_Coffee.Entity.BHChiTietHD;
-import Com.IT_Coffee.Entity.BanHang;
-import Com.IT_Coffee.Entity.HoaDon;
-import Com.IT_Coffee.Entity.LoaiSP;
-import Com.IT_Coffee.utils.Auth;
-import Com.IT_Coffee.utils.MsgBox;
-import Com.IT_Coffee.utils.XDate;
+import com.itcoffee.dao.BHChiTietHDDAO;
+import com.itcoffee.dao.SanPhamDAO;
+import com.itcoffee.entity.BHChiTietHD;
+
+import com.itcoffee.entity.BanHang;
+import com.itcoffee.entity.HoaDon;
+import com.itcoffee.entity.LoaiSP;
+import com.itcoffee.utils.Auth;
+import com.itcoffee.utils.MsgBox;
+import com.itcoffee.utils.XDate;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.BufferedWriter;
